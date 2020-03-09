@@ -95,7 +95,7 @@ if __name__ == '__main__':
         print("\n[+] Usage: python3 %s burp_item_xml_file filter\n[+] Filter:\n"
               "\tdomain\tonly grep domain\n"
               "\tip\tonly grep ip\n"
-              "\tdir\tonly grep url\n"
+              "\tdir\tonly grep directory\n"
               "\temail\tonly grep email\n"
               "\tphone\tonly grep phone\n"
               "\tall\tgrep all\n" % sys.argv[0])
