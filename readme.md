@@ -4,5 +4,5 @@
 
 ​	2.domain_blacklist.txt中是一些js或者其它中常出现的假域名，可自行增加。
 
-<img src="pic/1.png">
+<img src=.\pic\1.JPG>
 
